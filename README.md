@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jangir.vinay01@gmail.com**
 
-- 📄 Know about my experiences [Checkout my jobstreet profile](Checkout my jobstreet profile)
+- 📄 Know about my experiences [Checkout my jobstreet profile]
 
 - ⚡ Fun fact **I am funny**
 
