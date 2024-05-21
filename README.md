@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **SQL, ETL, Python, ML**
 
-- 📫 How to reach me **jangir.vinay01@gmail.com**
+- 📫 How to reach me **vinayjangir959@gmail.com**
 
 - 📄 Know about my experiences [Checkout my jobstreet profile]
 
