@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinay Jangir</h1>
 <h3 align="center">A passionate Python Data Scientist from India</h3>
-<img align = "right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/robot-humanoid-using-tablet-computer-big-data-analytic-using-ai-thinking-brain-artificial-intelligence-machine-learning-214269755.jpg"
+<div style = "display:inline-block">
+<img align = "right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/D4E12AQHpexdvcgPcUQ/article-cover_image-shrink_600_2000/0/1689851317694?e=2147483647&v=beta&t=qAUlPEOLCA1Hx1JoFKfyOkIdcydy78cFMQBMtr44YcY"/>
+<img align = "right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/robot-humanoid-using-tablet-computer-big-data-analytic-using-ai-thinking-brain-artificial-intelligence-machine-learning-214269755.jpg"/>
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vjangir01&label=Profile%20views&color=0e75b6&style=flat" alt="vjangir01" /> </p>
 
