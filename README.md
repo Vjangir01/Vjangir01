@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Jangir</h1>
 <h3 align="center">A passionate Python Data Scientist from India</h3>
-<img align="left" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="left" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjangir01&label=Profile%20views&color=0e75b6&style=flat" alt="vjangir01" /> </p>
 
