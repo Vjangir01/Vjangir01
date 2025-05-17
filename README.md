@@ -7,19 +7,18 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vjangir01&label=Profile%20views&color=0e75b6&style=flat" alt="vjangir01" /> </p>
 
-- 🔭 I’m currently working on **Business Initiated Payments**
+- 🔭 I’m currently working on **OTT_Data_Migration**
 
-- 🌱 I’m currently learning **AI, DL(Deep learning)**
+- 🌱 I’m currently learning **AI, ML(Machine learning)**
 
 - 📝 I regularly read articles on [blog.google.ai](blog.google.ai)
 
-- 💬 Ask me about **SQL, ETL, Python, ML**
+- 💬 Ask me about **SQL, ETL, Python**
 
 - 📫 How to reach me **vinayjangir959@gmail.com**
 
 - 📄 Know about my experiences [Checkout my jobstreet profile]
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
